@@ -420,7 +420,7 @@ p   {
     display: block; /* Show the order menu when the cart is checked */
 }
 
-@media screen and (max-width: 562px) {
+@media screen and (max-width: 849px) {
 
     body {
         overflow-x: hidden;
